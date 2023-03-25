@@ -9,10 +9,13 @@ body {
 .hero {
     height: 600px;
     padding: 20px 0;
-    background-image: url(./assets/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg);
+    background-image: url(./assets/giphy.webp);
     background-size: cover;
 }
 
+h1 {
+    text-shadow: 0px 0px 100px black;
+}
 
 .btn {
     padding: 6px 12px;
