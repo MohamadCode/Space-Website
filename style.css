@@ -2,14 +2,15 @@ body {
     margin: 0;
     font-family: 'Orbitron', sans-serif;
     text-align: center;
-    background-image: url(./assets/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg);
-    background-size: cover;
     color: #82a5ca;
+
 }
 
 .hero {
-    height: 400px;
+    height: 600px;
     padding: 20px 0;
+    background-image: url(./assets/guillermo-ferla-Oze6U2m1oYU-unsplash.jpg);
+    background-size: cover;
 }
 
 
